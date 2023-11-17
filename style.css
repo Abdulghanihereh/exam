@@ -1,0 +1,51 @@
+li{
+    color: rgb(131, 8, 8);
+    list-style-type: none;
+    font-size: 20px;
+}
+h3{
+    font-size: 40px;
+    font-weight: 900;
+}
+h2{
+    font-size: 39px;
+
+}
+.text{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+}
+.divv{
+    background-color: #ebe1e1;
+}
+.img{
+    width: 100%;
+}
+h1{
+    font-size: 20px;
+    color: gray;
+    letter-spacing: 2px;
+}
+h5{
+    font-size: 20px;
+}
+.dolar{
+    font-size: 30px;
+}
+.EURO{
+    font-size: 15PX;
+}
+.buttonn{
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border: 1px solid black;
+}
+.buttonn:hover{
+background:  linear-gradient(to right ,  pink , blue , red , black , orange , gray , bisque  );
+}
+.divvv{
+    background-color: #ebe1e1;
+}
